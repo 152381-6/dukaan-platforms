@@ -1,0 +1,25 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات البيئة
+.env
+*.env.local
+
+# التبعيات
+node_modules/
+package-lock.json
+yarn.lock
+
+# ملفات البناء
+build/
+dist/
+*.log
+
+# إعدادات IDE
+.idea/
+.vscode/
+
+# ملفات قاعدة البيانات المحلية
+*.db
+*.sqlite
